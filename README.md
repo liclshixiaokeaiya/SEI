@@ -1,1 +1,1 @@
-Entropy Never Lies: Signed Entropy Integral Unmasks Mislabeled Data
+On Revisiting Entropy for Identifying Mislabeled Medical Images
